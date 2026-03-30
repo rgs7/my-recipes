@@ -1,2 +1,3 @@
-# recipes
-Basic recipe website
+# My Recipes
+
+Basic recipe website written in HTML.
